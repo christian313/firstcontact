@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FormRegion xmlns="http://schemas.microsoft.com/office/outlook/12/formregion.xsd">
+  <name>FirstContact</name>
+  <formRegionType>adjoining</formRegionType>
+  <title>First Contact</title>
+  <showInspectorRead>true</showInspectorRead>
+  <showReadingPane>true</showReadingPane>
+  <showInspectorCompose>false</showInspectorCompose>
+  <!--
+  <addin>FirstContact.connect</addin>
+  -->
+  <version>1.0</version>
+</FormRegion>
